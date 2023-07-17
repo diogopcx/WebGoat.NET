@@ -58,7 +58,7 @@ How to build and run under Windows:
   3. You should see a form with a bunch of setup information for the
      database. For 'Data Provider' choose MySql. You'll need to fill in
      the respective data entries for your mysql db. 'Client Executable'
-     and 'Data File Path' are not necessary for MySql so you can leave
+     and 'Data File Path' are not necessary for MySql so you can leave111111
      them empty.
   4. Click on 'Test Configuration', followed by 'Rebuild Database' and
      hopefully you should be good go! Enjoy your hackathon!
